@@ -1,7 +1,7 @@
 <template>
-  <div>
-    <RouterLink to="/">AboutView</RouterLink> 
-  </div>
+    <div>
+        <h1>전체 스케줄</h1>
+    </div>
 </template>
 
 <script setup>

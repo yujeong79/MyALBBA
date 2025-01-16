@@ -1,7 +1,7 @@
 <template>
-  <div>
-    <RouterLink to="/">AboutView</RouterLink> 
-  </div>
+    <div>
+        <h1>월급 계산</h1>
+    </div>
 </template>
 
 <script setup>

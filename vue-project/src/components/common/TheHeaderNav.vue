@@ -1,12 +1,14 @@
+<template>
+    <div>
+        <nav>
+            <RouterLink to="/">HOME</RouterLink> 
+        </nav>
+    </div>
+</template>
+
 <script setup>
 
 </script>
-
-<template>
-    <div>
-        Header
-    </div>
-</template>
 
 <style scoped>
 

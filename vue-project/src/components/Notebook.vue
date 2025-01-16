@@ -1,7 +1,7 @@
 <template>
-  <div>
-    <RouterLink to="/">AboutView</RouterLink> 
-  </div>
+    <div>
+        <h1>알림장</h1>
+    </div>
 </template>
 
 <script setup>
